@@ -100,15 +100,6 @@ Problems are organized primarily by **difficulty**, but patterns may also be use
 
 ---
 
-## Solved Problems
-
-| #   | Problem       | Difficulty | Pattern          | Solution                  |
-| --- | ------------- | ---------- | ---------------- | ------------------------- |
-| 1   | Two Sum       | Easy       | Hash Map         | easy/0001-two-sum.js      |
-| 136 | Single Number | Easy       | Bit Manipulation | easy/0136-single-number.js|
-
----
-
 ## Solution Template
 
 All solutions may follow this template to maintain consistency:
