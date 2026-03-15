@@ -5,6 +5,8 @@
  *
  * Approaches:
  * 1. Sliding Window
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
  */
 
 /**
@@ -25,5 +27,3 @@ const maximumLengthSubstringWithTwoOccurrences = function(s) {
   }
   return max;
 };
-
-console.log(maximumLengthSubstring("bcbbbcba"));
