@@ -1,10 +1,15 @@
 /**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
- * }
+ * Problem: Remove Duplicates from Sorted List II
+ * Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+ * Difficulty: Medium
+ *
+ * Approach:
+ * 1. Iterative (Two Pointers + Dummy Node)
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
  */
+
 /**
  * @param {ListNode} head
  * @return {ListNode}
