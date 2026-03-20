@@ -3,7 +3,7 @@
  * Link: https://leetcode.com/problems/intersection-of-two-arrays/
  * Difficulty: Easy
  *
- * Approache:
+ * Approach:
  * 1. Hash Set
  *
  * Time Complexity: O(n + m)

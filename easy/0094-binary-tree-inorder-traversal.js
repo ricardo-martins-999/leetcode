@@ -3,7 +3,7 @@
  * Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
  * Difficulty: Easy
  *
- * Approaches:
+ * Approach:
  * 1. Depth-First Search (DFS) - Recursive
  *
  * Time Complexity: O(n)

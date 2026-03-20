@@ -4,11 +4,11 @@
  * Difficulty: Easy
  *
  * Approach:
- * Two Pointers
+ * 1. Two Pointers
  */
 
 /*
- * Approach: Two Pointers
+ * Approach 1: Two Pointers
  *
  * Idea:
  * Use two pointers, one starting at the beginning of the array

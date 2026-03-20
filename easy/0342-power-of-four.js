@@ -3,13 +3,13 @@
  * Link: https://leetcode.com/problems/power-of-four/
  * Difficulty: Easy
  *
- * Approach:
+ * Approaches:
  * 1. Iterative
  * 2. Recursive
  */
 
 /*
- * 1. Iterative
+ * Approach 1: Iterative
  *
  * Time Complexity: O(log n)
  * Space Complexity: O(1)
@@ -28,7 +28,7 @@ const isPowerOfFourIterative = function(n) {
 };
 
 /*
- * 2. Recursive
+ * Approach 2: Recursive
  *
  * Time Complexity: O(log n)
  * Space Complexity: O(log n)

@@ -4,9 +4,8 @@
  * Difficulty: Easy
  *
  * Approach:
- * Two Pointers with block iteration
+ * 1. Two Pointers with block iteration
  */
-
 
 /*
  * Approach: Reverse blocks using Two Pointers

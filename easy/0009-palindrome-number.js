@@ -10,6 +10,7 @@
 
 /*
  * Approach 1: Reverse the entire number
+ *
  * Time Complexity: O(log10(n))
  * Space Complexity: O(1)
  */

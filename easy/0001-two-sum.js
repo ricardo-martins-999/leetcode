@@ -10,6 +10,7 @@
 
 /*
  * Approach 1: Brute Force
+ *
  * Time Complexity: O(n²)
  * Space Complexity: O(1)
  */
@@ -31,6 +32,7 @@ const twoSumBrute = function(nums, target) {
 
 /*
  * Approach 2: Hash Map
+ *
  * Time Complexity: O(n)
  * Space Complexity: O(n)
  */

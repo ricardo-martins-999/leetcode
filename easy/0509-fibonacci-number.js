@@ -9,7 +9,7 @@
  */
 
 /**
- * 1. Iterative
+ * Approach 1: Iterative
  *
  * Time Complexity: O(n)
  * Space Complexity: O(1)
@@ -35,7 +35,7 @@ const fibonacciIterative = function(n) {
 };
 
 /**
- * 2. Recursive
+ * Approach 2: Recursive
  *
  * Time Complexity: O(2^n)
  * Space Complexity: O(n)
