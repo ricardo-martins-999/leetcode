@@ -1,4 +1,16 @@
 /**
+ * Problem: Merge Intervals
+ * Link: https://leetcode.com/problems/merge-intervals/
+ * Difficulty: Medium
+ *
+ * Approach:
+ * 1. Sort + Merge overlapping intervals
+ * 
+ * Time Complexity: O(n log n)
+ * Space Complexity: O(n)
+ */
+
+/**
  * @param {number[][]} intervals
  * @return {number[][]}
  */

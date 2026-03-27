@@ -1,4 +1,16 @@
 /**
+ * Problem: Sort Colors
+ * Link: https://leetcode.com/problems/sort-colors/
+ * Difficulty: Medium
+ *
+ * Approach:
+ * 1. Three Pointers (Dutch National Flag)
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
+
+/**
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
  */

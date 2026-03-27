@@ -1,4 +1,21 @@
 /**
+ * Problem: Valid Anagram
+ * Link: https://leetcode.com/problems/valid-anagram/
+ * Difficulty: Easy
+ *
+ * Approaches:
+ * 1. Hash Map (frequency count)
+ * 2. Counting Array (frequency)
+ */
+
+/**
+ * Approach 1: Hash Map (frequency count)
+ * 
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
+
+/**
  * @param {string} s
  * @param {string} t
  * @return {boolean}
@@ -21,6 +38,12 @@ const isAnagramMap = function(s, t) {
 	return true;
 }
 
+/**
+ * Approach 2: Counting Array (frequency)
+ * 
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
 /**
  * @param {string} s
  * @param {string} t

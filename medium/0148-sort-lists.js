@@ -1,10 +1,15 @@
 /**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
- * }
+ * Problem: Sort List
+ * Link: https://leetcode.com/problems/sort-list/
+ * Difficulty: Medium
+ *
+ * Approach:
+ * 1. Merge Sort (Linked List)
+ *
+ * Time Complexity: O(n log n)
+ * Space Complexity: O(log n)
  */
+
 /**
  * @param {ListNode} head
  * @return {ListNode}
@@ -28,7 +33,7 @@ const split = function(head) {
 	slow.next = null;
 
 	return second;
-}
+};
 
 const merge = function(first, second) {
 	if (!first) return second;
@@ -41,7 +46,7 @@ const merge = function(first, second) {
 		second.next = merge(first, second.next);
 		return second;
 	}
-}
+};
 
 const mergeSort = function(head) {
 	if (!head || !head.next) {
@@ -54,4 +59,4 @@ const mergeSort = function(head) {
 	second = mergeSort(second);
 
 	return merge(head, second);
-}
+};
