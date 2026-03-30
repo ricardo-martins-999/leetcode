@@ -13,17 +13,17 @@ This repository works as a personal study log where I practice problem-solving, 
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-47-blue)
-![Easy](https://img.shields.io/badge/Easy-33-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-51-blue)
+![Easy](https://img.shields.io/badge/Easy-37-brightgreen)
 ![Medium](https://img.shields.io/badge/Medium-13-yellow)
 ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 33     |
+| 🟢 Easy    | 37     |
 | 🟡 Medium  | 13     |
 | 🔴 Hard    | 1      |
-| **Total**  | 47     |
+| **Total**  | 51     |
 
 ---
 
@@ -37,7 +37,7 @@ This graph shows my coding activity and consistency over time.
 
 ## Goals
 
-* [ ] Solve 50 problems
+* [✅] Solve 50 problems
 * [ ] Solve 100 problems
 * [ ] Solve 200 problems
 * [ ] Solve 300 problems
