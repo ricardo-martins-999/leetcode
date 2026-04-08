@@ -15,15 +15,15 @@ This repository works as a personal study log where I practice problem-solving, 
 
 ![Problems Solved](https://img.shields.io/badge/Problems_Solved-69-blue)
 ![Easy](https://img.shields.io/badge/Easy-51-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-17-yellow)
+![Medium](https://img.shields.io/badge/Medium-19-yellow)
 ![Hard](https://img.shields.io/badge/Hard-1-red)
 
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 51     |
-| 🟡 Medium  | 17     |
+| 🟡 Medium  | 19     |
 | 🔴 Hard    | 1      |
-| **Total**  | 69     |
+| **Total**  | 71     |
 
 ---
 
