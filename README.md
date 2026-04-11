@@ -13,17 +13,12 @@ This repository works as a personal study log where I practice problem-solving, 
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-76-blue)
-![Easy](https://img.shields.io/badge/Easy-55-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-20-yellow)
-![Hard](https://img.shields.io/badge/Hard-1-red)
-
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 55     |
+| 🟢 Easy    | 56     |
 | 🟡 Medium  | 20     |
 | 🔴 Hard    | 1      |
-| **Total**  | 76     |
+| **Total**  | 77     |
 
 ---
 
