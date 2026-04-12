@@ -15,10 +15,10 @@ This repository works as a personal study log where I practice problem-solving, 
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 61     |
-| 🟡 Medium  | 20     |
+| 🟢 Easy    | 64     |
+| 🟡 Medium  | 21     |
 | 🔴 Hard    | 1      |
-| **Total**  | 82     |
+| **Total**  | 86     |
 
 ---
 
@@ -32,7 +32,7 @@ This graph shows my coding activity and consistency over time.
 
 ## Goals
 
-* [✅] Solve 50 problems
+* ✅ Solve 50 problems
 * [ ] Solve 100 problems
 * [ ] Solve 200 problems
 * [ ] Solve 300 problems
