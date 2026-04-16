@@ -15,10 +15,10 @@ This repository works as a personal study log where I practice problem-solving, 
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 71     |
-| 🟡 Medium  | 23     |
+| 🟢 Easy    | 74     |
+| 🟡 Medium  | 24     |
 | 🔴 Hard    | 1      |
-| **Total**  | 95     |
+| **Total**  | 99     |
 
 ---
 
