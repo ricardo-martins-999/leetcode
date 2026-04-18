@@ -16,9 +16,9 @@ This repository works as a personal study log where I practice problem-solving, 
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 86     |
-| 🟡 Medium  | 24     |
+| 🟡 Medium  | 28     |
 | 🔴 Hard    | 1      |
-| **Total**  | 111    |
+| **Total**  | 115    |
 
 ---
 
